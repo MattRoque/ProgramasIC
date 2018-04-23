@@ -14,7 +14,7 @@ int main()
     float prob, p ;
     char resp ;
 
-    srand((unsigned)time(NULL));
+    coisa aleatoria
 
     do {
     for (i=0;i<n;i++) {
